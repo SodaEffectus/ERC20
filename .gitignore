@@ -1,0 +1,7 @@
+.env
+artifacts
+cashe
+deployments
+/node_modules
+test
+typechain-types
